@@ -1,6 +1,6 @@
 # Match the Avatar
 
-**Match the Avatar** is a fun and interactive memory game where players flip cards to find matching avatars. The avatars are dynamically generated using the [DiceBear API](https://dicebear.com/), ensuring each match features a unique, pixel-art-style avatar from Harry Potter characters.
+**Match the Avatar** is a fun and interactive memory game where players flip cards to find matching avatars. The avatars are dynamically generated using the [DiceBear API](https://dicebear.com/), ensuring each match features a unique, pixel-art-style avatar from Harry Potter characters. Check out the deployed app here: https://guess-the-avatar.vercel.app/
 
 ## Features
 
